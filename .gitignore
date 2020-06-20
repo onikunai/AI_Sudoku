@@ -125,6 +125,6 @@ dmypy.json
 .pyre/
 
 # 自分で追記
-.vs/AI_Sudoku/v16
-.gitattributes
-.gitignore
+#.vs/AI_Sudoku/v16
+#.gitattributes
+#.gitignore
