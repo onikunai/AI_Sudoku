@@ -7,7 +7,7 @@
 ---
 ### step1：解答の自動生成  
 pythonで、解答を自動生成するところまで完成。
-* *画面*  
+* *画面(CUI)*  
 <img width="240" alt="画像の読み込み失敗" src='./demo/images/sample01.png'>  
 
 ### step2：GUIの作成(現状)  
