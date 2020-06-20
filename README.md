@@ -30,7 +30,6 @@ GUIをC#で作成中
 
 
 ## *製作者*
----
 onikunai  
 Github: https://github.com/onikunai  
 
